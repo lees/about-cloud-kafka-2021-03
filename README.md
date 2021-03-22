@@ -1,9 +1,11 @@
-# about:cloud - Зачем нужны «неуправляемые» топики в Managed Servicefor Apache Kafka®
+# about:cloud - Зачем нужны «неуправляемые» топики в Managed Service for Apache Kafka®
 В этом репозитории содержатся примеры кода из доклада.
 
 ## Полезные ссылки
 - [Managed Service for Apache Kafka®](https://cloud.yandex.ru/services/managed-kafka)
-- 
+- [Kafka Streams Into](https://kafka.apache.org/documentation/streams/)
+- [ksqlDB Quickstart](https://ksqldb.io/quickstart.html)
+- [Раздел идей](https://cloud.yandex.ru/features)
 
 ## Пример разворачивание Apache Kafka® кластера с ksqlDB
 ### Создаем кластер
